@@ -1,7 +1,7 @@
 Titre de la clause1
 =========
 
-- Catégorie : catégorie de la clause
+- catégorie : catégorie de la clause
 - auteur : auteur de la clause
 
 # Description 
